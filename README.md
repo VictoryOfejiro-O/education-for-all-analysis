@@ -12,13 +12,16 @@ I was given a hypothetical problem to solve as a data analyst working for the ch
 
   
 ## Project Overview
-This project is to analyze the donations that come with the following objectives;
+The purpose of this project is to analyze the donations received and achieve the following objectives:
 -	Increase the number of donors in our database.
 -	Increase the donation frequency of our donors.
 -	Increase the value of donations in our database.
+  ![Dashboard 1 (2)](https://github.com/VictoryOfejiro-O/education-for-all-analysis/assets/152421383/50e5e08f-9e6d-493d-9153-a5f3ff23a5d2)
+
+  
 
 ### Data Sources
-The primary data source for this analysis is the file link from the entrylevel platform.
+The primary data source for this analysis is from the entrylevel platform.
 
 ### Tools
 - Sqlite - analysis
@@ -138,26 +141,23 @@ Figure 2: Illustrates the amount of donations donors in different job fields/Ind
 Figure 3: This shows the number of donors by their shirt size.
 ![image](https://github.com/VictoryOfejiro-O/education-for-all-analysis/assets/152421383/6343ce36-f375-4e03-9c34-87ee5d39f8b5)
 
-Figure 4: Shows donations by their car owned, it is seen that most donations came from donors with the Ford car model.
-![image](https://github.com/VictoryOfejiro-O/education-for-all-analysis/assets/152421383/ac5f89e9-0b32-48a4-9542-d3b95d0e523e)
-
-Figure 5: Shows the state with the highest donations and the state with the highest number of donors. 
+Figure 4: Shows the state with the highest donations and the state with the highest number of donors. 
 ![image](https://github.com/VictoryOfejiro-O/education-for-all-analysis/assets/152421383/7639428b-aaca-445a-bc30-1067c7a39a68)
 ![image](https://github.com/VictoryOfejiro-O/education-for-all-analysis/assets/152421383/f48e8b96-fd82-4a9c-89e2-dd05cf1b64cc)
 
 ### Findings
 - The total amount of donations was 249085.
 - The number count of donations that came in was 1000.
-- The number of donors that donate the highest donated either yearly or once than weekly or monthly as shown in Figure 1. Also, the males gave higher than the females.
-- Most donations came from those in universities and even though others weren’t, it did not affect the donations ratio much. Most of the higher donations came from donors who reside either in California, Texas, or Florida respectively as seen in Figure 5.
-- Donors in the research and development, legal and training industries respectively gave higher donations as shown in Figure 2.
+- The number of donors that donate the highest donated either yearly or once than weekly or monthly as shown in [Figure 1](#figure-1). Also, the males gave higher than the females.
+- Most donations came from those in universities and even though others weren’t, it did not affect the donations ratio much. Most of the higher donations came from donors who reside either in California, Texas, or Florida respectively as seen in [Figure 4](#figure-4).
+- Donors in the research and development, legal and training industries respectively gave higher donations as shown in [Figure 2](#figure-2).
 
 ### Recommendations
 - To overcome the problem of low donations because people are unable to give or continue giving much, the data should show the organization's reach and success outcome as a motivation to loyal and intending donors. 
 This can be achieved when we place more focus on large-scale global advertisement marketing in donor states and especially in states that had not gotten awareness of the charity program, thereby bringing awareness to the public on what people face without proper education and what measures have been successfully carried out to provide education to those that either cannot afford or access it. This would help in bringing more donors from different states, even states that had not participated in the donations before.
 - Proper measures must also be taken to improve the database, for instance; movie genre, favorite color, car, and even shirt size data collected are not necessary, we need to create a database that provides the age group of donors as this will help us narrow down our market target, giving a clear picture of where our market target focus should be when carrying out our market strategy.
 
-
+💻 😃
 
 
 
