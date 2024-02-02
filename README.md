@@ -1,12 +1,22 @@
 # Education-For-All-analysis
 I was given a hypothetical problem to solve as a data analyst working for the charity, Education for All. I have been asked by the Head of fundraising to present the data on donor insights and donation rates. 
 
+## Table of content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Analysis](#analysis)
+- [Tableau Visualizations](#tableau-visualizations)
+- [Findings](#findings)
+- [Recommedations](#recommendations)
+
+  
 ## Project Overview
 -	Increase the number of donors in our database.
 -	Increase the donation frequency of our donors.
 -	Increase the value of donations in our database.
 
-### Data sources
+### Data Sources
 The primary data source for this analysis is the file link from the entrylevel platform.
 
 ### Tools
@@ -141,7 +151,7 @@ Figure 5: Shows the state with the highest donations and the state with the high
 - Most donations came from those in universities and even though others weren’t, it did not affect the donations ratio much. Most of the higher donations came from donors who reside either in California, Texas, or Florida respectively as seen in Figure 5.
 - Donors in the research and development, legal and training industries respectively gave higher donations as shown in Figure 2.
 
-### Recommendation/Conclusion
+### Recommendations
 - To overcome the problem of low donations because people are unable to give or continue giving much, the data should show the organization's reach and success outcome as a motivation to loyal and intending donors. 
 This can be achieved when we place more focus on large-scale global advertisement marketing in donor states and especially in states that had not gotten awareness of the charity program, thereby bringing awareness to the public on what people face without proper education and what measures have been successfully carried out to provide education to those that either cannot afford or access it. This would help in bringing more donors from different states, even states that had not participated in the donations before.
 - Proper measures must also be taken to improve the database, for instance; movie genre, favorite color, car, and even shirt size data collected are not necessary, we need to create a database that provides the age group of donors as this will help us narrow down our market target, giving a clear picture of where our market target focus should be when carrying out our market strategy.
