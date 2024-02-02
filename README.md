@@ -12,6 +12,7 @@ I was given a hypothetical problem to solve as a data analyst working for the ch
 
   
 ## Project Overview
+This project is to analyze the donations that come with the following objectives;
 -	Increase the number of donors in our database.
 -	Increase the donation frequency of our donors.
 -	Increase the value of donations in our database.
